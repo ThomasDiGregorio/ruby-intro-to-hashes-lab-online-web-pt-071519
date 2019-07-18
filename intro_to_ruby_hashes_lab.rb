@@ -1,4 +1,4 @@
-def new_hash ; Hash.new
+def new_hash = Hash.new
 	new_hash
 end
 
